@@ -2,11 +2,10 @@
 
 ## To setup the project on your local machine
 
-Clone the repo\
-`git clone https://github.com/Sukhseerat-Kaur/flip-verse.git`
+Clone the repo
 
 Navigate to the folder\
-`cd flip-verse`
+`cd `
 
 Install dependencies\
 `yarn install`
